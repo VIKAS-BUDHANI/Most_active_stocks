@@ -41,6 +41,17 @@ Then download the **Active_stocks.ipynb** --
 ![image](https://user-images.githubusercontent.com/111237089/221139329-70a33334-3ae6-4844-928c-4b6536645066.png)
 
 
+### Losing stocks
+
+![newplot (3)](https://user-images.githubusercontent.com/111237089/221139568-0b9e6861-e090-454f-86d1-b59776d58578.png)
+
+![image](https://user-images.githubusercontent.com/111237089/221139666-c517121e-f4a5-4fff-afa7-e5b855257f0e.png)
+
+### Top PE ratio stocks
+
+![image](https://user-images.githubusercontent.com/111237089/221139814-785f638a-2e9d-4949-828f-2136b8cb2e61.png)
+
+
 
 
 
