@@ -1,6 +1,6 @@
 # Most_active_stocks
 
-The data were scraped from Yahoo Finance under the head of Most actice stocks.
+The data were scraped from Yahoo Finance under the head of Most active stocks.
 The data is live. The data keep changing. so you have to run the code i will update the values and result according to the sorce data.
 
 * Imported python modules.
