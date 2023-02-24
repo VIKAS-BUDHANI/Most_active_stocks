@@ -26,7 +26,20 @@ Then download the **Active_stocks.ipynb** --
 
 ### Heat Map 
 
-![newplot](https://user-images.githubusercontent.com/111237089/221138545-f0c8e713-555e-43fb-87f8-2ef41d4f6da7.png)
+![newplot](https://user-images.githubusercontent.com/111237089/221138759-7236e1a5-7800-4e74-9a5d-a87b530a9064.png)
+
+
+### Bubble graph
+
+![newplot (1)](https://user-images.githubusercontent.com/111237089/221138904-b7d062a2-2165-4bfa-a09d-037c43a6d1a8.png)
+
+
+### Rising Stocks
+
+![newplot (2)](https://user-images.githubusercontent.com/111237089/221139069-d44e800e-052d-4bc3-a856-e42e8c875d47.png)
+
+![image](https://user-images.githubusercontent.com/111237089/221139329-70a33334-3ae6-4844-928c-4b6536645066.png)
+
 
 
 
