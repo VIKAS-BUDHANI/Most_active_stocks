@@ -22,4 +22,13 @@ Then download the **Active_stocks.ipynb** --
 
 
 
+## Some Outcomes of 24-02-2023 timming 2:45 PM-
+
+### Heat Map 
+
+![newplot](https://user-images.githubusercontent.com/111237089/221138545-f0c8e713-555e-43fb-87f8-2ef41d4f6da7.png)
+
+
+
+
 
